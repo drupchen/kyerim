@@ -364,7 +364,7 @@ body_beginning = dedent("""\
 player_start = '<audio id="hyperplayer1" style="position:relative; width:97%" src="'
 
 audio_links = {
-    '1': "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-9/c8cd0748-4337-e3a4-8bf0-c5eaabb0f76c.mp3",
+    '1': "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-10/6766fa1d-35aa-2abe-4f7e-16e7a9609289.mp3",
     "2": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-10/405418731-44100-2-85c7fca09ed93.m4a",
     "3": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-10/f6da7cfb-2c26-d2a2-e20d-631c570c340c.mp3",
     "4": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-10/b81caed8-45aa-9566-ca06-1e2db3f4f558.mp3",
