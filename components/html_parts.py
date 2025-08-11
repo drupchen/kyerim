@@ -379,8 +379,8 @@ audio_links = {
     "13": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-10/405437577-44100-2-abba7c22fd8ed.m4a",
     "14": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-10/405437626-44100-2-5481a859e0ecf.m4a"
 }
-
-player_end = '" type="audio/m4a" controlsList="nodownload" controls></audio>'
+player_middle = '" type="audio/'
+player_end = '" controlsList="nodownload" controls></audio>'
 
 transcript_start = """\
           

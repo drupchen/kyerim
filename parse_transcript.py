@@ -177,7 +177,9 @@ files = sorted(files)
 
 total_text = []
 for file_num, in_file in files:
-    player = f'{player_start}{audio_links[str(file_num)]}{player_end}'
+    l = audio_links[str(file_num)]
+    ext = l.split('.')[-1]
+    player = f'{player_start}{l}{player_middle}{ext}{player_end}'
 
     transcription, chunks, for_links = gen_ha_page(in_file)
     transcription = f'\n{transcript_start}\n{transcription}\n{transcript_end}\n\n'
